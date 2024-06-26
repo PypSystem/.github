@@ -1,12 +1,10 @@
-# Welcome to Pyp System 🖖
+# Bem-vindo à Pyp System 🖖
 
-Pyp System is an emerging software house dedicated to providing modern and efficient technological solutions for businesses across various sectors. We deeply value our relationships with clients, always striving to understand their needs and exceed their expectations with personalized and attentive service.
+A Pyp System é uma software house emergente dedicada a fornecer soluções tecnológicas modernas e eficientes para empresas de diversos setores. Valorizamos profundamente nossos relacionamentos com os clientes, sempre nos esforçando para entender suas necessidades e superar suas expectativas com um serviço personalizado e atencioso.
 
-Pyp System is committed to excellence and innovation, always ready to tackle new challenges and help our clients achieve their goals through technology.
+A Pyp System é comprometida com a excelência e inovação, sempre pronta para enfrentar novos desafios e ajudar nossos clientes a alcançar seus objetivos através da tecnologia.
 
-## 🚀 Technologies We Use
-
-We pride ourselves on using cutting-edge technologies to deliver top-notch solutions:
+## 🚀 Tecnologias que utilizamos
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Nest.js](https://img.shields.io/badge/Nest.js-%23E0234E.svg?&logo=NestJS&logoColor=red)
@@ -19,9 +17,9 @@ We pride ourselves on using cutting-edge technologies to deliver top-notch solut
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 
-## 💬 Connect with Us
+## 💬 Conecte-se conosco!
 
-We'd love to hear from you! Connect with us on social media:
+Adoraríamos ouvir você! Conecte-se conosco nas redes sociais:
 
 - **LinkedIn**: [Pyp System](https://linkedin.com/company/pyp-system)
 - **Instagram**: [@pypsystem](https://instagram.com/pypsystem)
