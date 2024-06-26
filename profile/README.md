@@ -7,6 +7,7 @@ A Pyp System é comprometida com a excelência e inovação, sempre pronta para 
 ## 🚀 Tecnologias que utilizamos
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Nest.js](https://img.shields.io/badge/Nest.js-%23E0234E.svg?&logo=NestJS&logoColor=red)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?&logo=Node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
